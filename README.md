@@ -45,7 +45,7 @@ streamlit run app.py
 
 ---
 
-## Data & Cleaning notes
+## Methodology (Data & Cleaning)
 
 Two datasets:
 - **sentiment_data.csv** — 2,644 daily Fear/Greed readings with a classification label
@@ -79,7 +79,7 @@ A few things caught me out early:
 
 ---
 
-## What I found
+## Insights
 
 ### Finding 1 — Traders go into overdrive during Fear
 
@@ -118,7 +118,7 @@ But Fear + High Leverage = the worst combination.
 
 ---
 
-## Strategy ideas
+## Strategy Recommendations
 
 **Idea 1 — Put the brakes on in Extreme Fear**  
 When the index drops below 30, high-leverage accounts (top-third) should get capped at 5x and 
