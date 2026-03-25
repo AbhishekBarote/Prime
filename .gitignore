@@ -1,0 +1,22 @@
+# Raw data files — downloaded via download_data.py
+sentiment_data.csv
+trader_data.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
